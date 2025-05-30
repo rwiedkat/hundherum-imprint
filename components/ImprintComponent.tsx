@@ -34,7 +34,9 @@ export default function ImprintComponent() {
                                         hundherum.nbg@gmail.com
                                     </a>
                                     <br/>
-                                    Telefon: 01727551509<br/>
+                                    Telefon: <a href="tel:+491727551509" className="underline">
+                                    +49 172 7551509
+                                </a><br/>
                                     Redaktionell verantwortlich:<br /> Sofia Rösl
                                 </p>
                             </div>
